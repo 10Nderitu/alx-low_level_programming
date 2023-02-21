@@ -1,6 +1,2 @@
-#ifndef MAIN.H
-#define MAIN.H
-
-int _putchar(char);
+int_putchar(char)
 void print_alphabet(void);
-#endif
