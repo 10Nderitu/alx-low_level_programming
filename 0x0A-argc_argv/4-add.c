@@ -4,7 +4,7 @@
 
 /**
  * main - entry point
- * Description: adds 2 positive numbers
+ * Adds 2 positive numbers
  * @argc: arguement count
  * @argv: argument array
  * Return: 0
